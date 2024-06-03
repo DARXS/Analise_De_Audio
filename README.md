@@ -1,10 +1,8 @@
 <div align="center">
   
-## Análise de Áudio :sound:
+# Análise de Áudio :sound:
 
 </div>
-
----
 
 <div align="justify">
 
