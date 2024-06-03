@@ -1,8 +1,10 @@
 <div align="center">
   
-## Análise de áudio em Python :sound:
+## Análise de Áudio :sound:
 
 </div>
+
+---
 
 <div align="justify">
 
