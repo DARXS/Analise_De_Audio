@@ -1,6 +1,6 @@
 <div align="center">
   
-## Análise de áudio por Espectograma :sound:
+## Análise de áudio em Python :sound:
 
 </div>
 
